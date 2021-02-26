@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lofiWave/static/css/main.bb01e607.chunk.css",
+    "main.js": "/lofiWave/static/js/main.261a7829.chunk.js",
+    "main.js.map": "/lofiWave/static/js/main.261a7829.chunk.js.map",
+    "runtime-main.js": "/lofiWave/static/js/runtime-main.b3484cd8.js",
+    "runtime-main.js.map": "/lofiWave/static/js/runtime-main.b3484cd8.js.map",
+    "static/js/2.ad8d917f.chunk.js": "/lofiWave/static/js/2.ad8d917f.chunk.js",
+    "static/js/2.ad8d917f.chunk.js.map": "/lofiWave/static/js/2.ad8d917f.chunk.js.map",
+    "static/js/3.5889bfbe.chunk.js": "/lofiWave/static/js/3.5889bfbe.chunk.js",
+    "static/js/3.5889bfbe.chunk.js.map": "/lofiWave/static/js/3.5889bfbe.chunk.js.map",
+    "index.html": "/lofiWave/index.html",
+    "static/css/main.bb01e607.chunk.css.map": "/lofiWave/static/css/main.bb01e607.chunk.css.map",
+    "static/js/2.ad8d917f.chunk.js.LICENSE.txt": "/lofiWave/static/js/2.ad8d917f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3484cd8.js",
+    "static/js/2.ad8d917f.chunk.js",
+    "static/css/main.bb01e607.chunk.css",
+    "static/js/main.261a7829.chunk.js"
+  ]
+}
