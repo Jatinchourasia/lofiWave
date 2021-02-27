@@ -1,7 +1,6 @@
 import React from "react";
 
 const Song = ({ currentSong }) => {
-  let background = currentSong.cover;
   return (
     <div className="song-container">
       <img src={currentSong.cover} alt={currentSong.name} />
