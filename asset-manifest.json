@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lofiWave/static/css/main.dcbdf0bd.chunk.css",
-    "main.js": "/lofiWave/static/js/main.6fbcee2d.chunk.js",
-    "main.js.map": "/lofiWave/static/js/main.6fbcee2d.chunk.js.map",
+    "main.css": "/lofiWave/static/css/main.06094ffb.chunk.css",
+    "main.js": "/lofiWave/static/js/main.64e8724f.chunk.js",
+    "main.js.map": "/lofiWave/static/js/main.64e8724f.chunk.js.map",
     "runtime-main.js": "/lofiWave/static/js/runtime-main.731e45b7.js",
     "runtime-main.js.map": "/lofiWave/static/js/runtime-main.731e45b7.js.map",
     "static/js/2.181fc836.chunk.js": "/lofiWave/static/js/2.181fc836.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.4f782318.chunk.js": "/lofiWave/static/js/3.4f782318.chunk.js",
     "static/js/3.4f782318.chunk.js.map": "/lofiWave/static/js/3.4f782318.chunk.js.map",
     "index.html": "/lofiWave/index.html",
-    "static/css/main.dcbdf0bd.chunk.css.map": "/lofiWave/static/css/main.dcbdf0bd.chunk.css.map",
+    "static/css/main.06094ffb.chunk.css.map": "/lofiWave/static/css/main.06094ffb.chunk.css.map",
     "static/js/2.181fc836.chunk.js.LICENSE.txt": "/lofiWave/static/js/2.181fc836.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.731e45b7.js",
     "static/js/2.181fc836.chunk.js",
-    "static/css/main.dcbdf0bd.chunk.css",
-    "static/js/main.6fbcee2d.chunk.js"
+    "static/css/main.06094ffb.chunk.css",
+    "static/js/main.64e8724f.chunk.js"
   ]
 }
